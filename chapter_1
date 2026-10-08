@@ -1,0 +1,14 @@
+# chapter_1.py
+# Chapter 1: The Midnight Debugger
+# As midnight struck, the Stocksquad team stared at the terminal.
+# A mysterious error message blinked softly in the neon ambient light.
+
+def begin_chapter():
+    print("--- Chapter 1: The Midnight Debugger ---")
+    print("Faiza looked at the terminal screen.")
+    print("'Wait... this code wasn't here five minutes ago,' she whispered.")
+    print("A faint voice echoed from the speakers: 'Merge if you dare...'")
+
+# Run the chapter
+if __name__ == "__main__":
+    begin_chapter()
