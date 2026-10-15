@@ -1,5 +1,5 @@
 # chapter_4.py
-# Chapter 3: The Final Merge
+# Chapter 4: The Final Merge
 # Alish joins the other 3 members to help solve the mystery.
 
 def final_chapter():
